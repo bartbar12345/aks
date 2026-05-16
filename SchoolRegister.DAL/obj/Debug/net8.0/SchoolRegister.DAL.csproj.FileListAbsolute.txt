@@ -1,4 +1,5 @@
 C:\Users\barte\github\aks\SchoolRegister.DAL\bin\Debug\net8.0\SchoolRegister.DAL.deps.json
+C:\Users\barte\github\aks\SchoolRegister.DAL\bin\Debug\net8.0\SchoolRegister.DAL.runtimeconfig.json
 C:\Users\barte\github\aks\SchoolRegister.DAL\bin\Debug\net8.0\SchoolRegister.DAL.dll
 C:\Users\barte\github\aks\SchoolRegister.DAL\bin\Debug\net8.0\SchoolRegister.DAL.pdb
 C:\Users\barte\github\aks\SchoolRegister.DAL\bin\Debug\net8.0\SchoolRegister.Model.dll
@@ -8,11 +9,10 @@ C:\Users\barte\github\aks\SchoolRegister.DAL\obj\Debug\net8.0\SchoolRegister.DAL
 C:\Users\barte\github\aks\SchoolRegister.DAL\obj\Debug\net8.0\SchoolRegister.DAL.AssemblyInfoInputs.cache
 C:\Users\barte\github\aks\SchoolRegister.DAL\obj\Debug\net8.0\SchoolRegister.DAL.AssemblyInfo.cs
 C:\Users\barte\github\aks\SchoolRegister.DAL\obj\Debug\net8.0\SchoolRegister.DAL.csproj.CoreCompileInputs.cache
+C:\Users\barte\github\aks\SchoolRegister.DAL\obj\Debug\net8.0\SchoolRegister.DAL.sourcelink.json
 C:\Users\barte\github\aks\SchoolRegister.DAL\obj\Debug\net8.0\SchoolRe.0EB9A3CA.Up2Date
 C:\Users\barte\github\aks\SchoolRegister.DAL\obj\Debug\net8.0\SchoolRegister.DAL.dll
 C:\Users\barte\github\aks\SchoolRegister.DAL\obj\Debug\net8.0\refint\SchoolRegister.DAL.dll
 C:\Users\barte\github\aks\SchoolRegister.DAL\obj\Debug\net8.0\SchoolRegister.DAL.pdb
-C:\Users\barte\github\aks\SchoolRegister.DAL\obj\Debug\net8.0\ref\SchoolRegister.DAL.dll
-C:\Users\barte\github\aks\SchoolRegister.DAL\bin\Debug\net8.0\SchoolRegister.DAL.runtimeconfig.json
-C:\Users\barte\github\aks\SchoolRegister.DAL\obj\Debug\net8.0\SchoolRegister.DAL.sourcelink.json
 C:\Users\barte\github\aks\SchoolRegister.DAL\obj\Debug\net8.0\SchoolRegister.DAL.genruntimeconfig.cache
+C:\Users\barte\github\aks\SchoolRegister.DAL\obj\Debug\net8.0\ref\SchoolRegister.DAL.dll

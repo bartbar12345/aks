@@ -6,8 +6,10 @@ C:\Users\barte\github\aks\SchoolRegister.Web\bin\Debug\net8.0\SchoolRegister.Web
 C:\Users\barte\github\aks\SchoolRegister.Web\bin\Debug\net8.0\SchoolRegister.Web.runtimeconfig.json
 C:\Users\barte\github\aks\SchoolRegister.Web\bin\Debug\net8.0\SchoolRegister.Web.dll
 C:\Users\barte\github\aks\SchoolRegister.Web\bin\Debug\net8.0\SchoolRegister.Web.pdb
+C:\Users\barte\github\aks\SchoolRegister.Web\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\barte\github\aks\SchoolRegister.Web\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\barte\github\aks\SchoolRegister.Web\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\barte\github\aks\SchoolRegister.Web\bin\Debug\net8.0\Castle.Core.dll
 C:\Users\barte\github\aks\SchoolRegister.Web\bin\Debug\net8.0\Humanizer.dll
 C:\Users\barte\github\aks\SchoolRegister.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
 C:\Users\barte\github\aks\SchoolRegister.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
@@ -23,6 +25,7 @@ C:\Users\barte\github\aks\SchoolRegister.Web\bin\Debug\net8.0\Microsoft.Data.Sql
 C:\Users\barte\github\aks\SchoolRegister.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\barte\github\aks\SchoolRegister.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\barte\github\aks\SchoolRegister.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\barte\github\aks\SchoolRegister.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
 C:\Users\barte\github\aks\SchoolRegister.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\barte\github\aks\SchoolRegister.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\barte\github\aks\SchoolRegister.Web\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
@@ -142,6 +145,7 @@ C:\Users\barte\github\aks\SchoolRegister.Web\obj\Debug\net8.0\SchoolRegister.Web
 C:\Users\barte\github\aks\SchoolRegister.Web\obj\Debug\net8.0\SchoolRegister.Web.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\barte\github\aks\SchoolRegister.Web\obj\Debug\net8.0\SchoolRegister.Web.RazorAssemblyInfo.cache
 C:\Users\barte\github\aks\SchoolRegister.Web\obj\Debug\net8.0\SchoolRegister.Web.RazorAssemblyInfo.cs
+C:\Users\barte\github\aks\SchoolRegister.Web\obj\Debug\net8.0\SchoolRegister.Web.sourcelink.json
 C:\Users\barte\github\aks\SchoolRegister.Web\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\barte\github\aks\SchoolRegister.Web\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\barte\github\aks\SchoolRegister.Web\obj\Debug\net8.0\staticwebassets\msbuild.SchoolRegister.Web.Microsoft.AspNetCore.StaticWebAssets.props
@@ -158,6 +162,3 @@ C:\Users\barte\github\aks\SchoolRegister.Web\obj\Debug\net8.0\refint\SchoolRegis
 C:\Users\barte\github\aks\SchoolRegister.Web\obj\Debug\net8.0\SchoolRegister.Web.pdb
 C:\Users\barte\github\aks\SchoolRegister.Web\obj\Debug\net8.0\SchoolRegister.Web.genruntimeconfig.cache
 C:\Users\barte\github\aks\SchoolRegister.Web\obj\Debug\net8.0\ref\SchoolRegister.Web.dll
-C:\Users\barte\github\aks\SchoolRegister.Web\obj\Debug\net8.0\SchoolRegister.Web.sourcelink.json
-C:\Users\barte\github\aks\SchoolRegister.Web\bin\Debug\net8.0\Castle.Core.dll
-C:\Users\barte\github\aks\SchoolRegister.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
