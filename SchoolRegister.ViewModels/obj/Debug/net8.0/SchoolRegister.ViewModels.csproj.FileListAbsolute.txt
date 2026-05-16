@@ -1,0 +1,15 @@
+C:\Users\barte\github\aks\SchoolRegister.ViewModels\bin\Debug\net8.0\SchoolRegister.ViewModels.deps.json
+C:\Users\barte\github\aks\SchoolRegister.ViewModels\bin\Debug\net8.0\SchoolRegister.ViewModels.dll
+C:\Users\barte\github\aks\SchoolRegister.ViewModels\bin\Debug\net8.0\SchoolRegister.ViewModels.pdb
+C:\Users\barte\github\aks\SchoolRegister.ViewModels\bin\Debug\net8.0\SchoolRegister.Model.dll
+C:\Users\barte\github\aks\SchoolRegister.ViewModels\bin\Debug\net8.0\SchoolRegister.Model.pdb
+C:\Users\barte\github\aks\SchoolRegister.ViewModels\obj\Debug\net8.0\SchoolRegister.ViewModels.csproj.AssemblyReference.cache
+C:\Users\barte\github\aks\SchoolRegister.ViewModels\obj\Debug\net8.0\SchoolRegister.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\github\aks\SchoolRegister.ViewModels\obj\Debug\net8.0\SchoolRegister.ViewModels.AssemblyInfoInputs.cache
+C:\Users\barte\github\aks\SchoolRegister.ViewModels\obj\Debug\net8.0\SchoolRegister.ViewModels.AssemblyInfo.cs
+C:\Users\barte\github\aks\SchoolRegister.ViewModels\obj\Debug\net8.0\SchoolRegister.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\barte\github\aks\SchoolRegister.ViewModels\obj\Debug\net8.0\SchoolRe.74268CC5.Up2Date
+C:\Users\barte\github\aks\SchoolRegister.ViewModels\obj\Debug\net8.0\SchoolRegister.ViewModels.dll
+C:\Users\barte\github\aks\SchoolRegister.ViewModels\obj\Debug\net8.0\refint\SchoolRegister.ViewModels.dll
+C:\Users\barte\github\aks\SchoolRegister.ViewModels\obj\Debug\net8.0\SchoolRegister.ViewModels.pdb
+C:\Users\barte\github\aks\SchoolRegister.ViewModels\obj\Debug\net8.0\ref\SchoolRegister.ViewModels.dll
