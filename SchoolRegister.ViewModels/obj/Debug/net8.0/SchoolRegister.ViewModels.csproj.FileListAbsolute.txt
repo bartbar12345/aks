@@ -13,3 +13,4 @@ C:\Users\barte\github\aks\SchoolRegister.ViewModels\obj\Debug\net8.0\SchoolRegis
 C:\Users\barte\github\aks\SchoolRegister.ViewModels\obj\Debug\net8.0\refint\SchoolRegister.ViewModels.dll
 C:\Users\barte\github\aks\SchoolRegister.ViewModels\obj\Debug\net8.0\SchoolRegister.ViewModels.pdb
 C:\Users\barte\github\aks\SchoolRegister.ViewModels\obj\Debug\net8.0\ref\SchoolRegister.ViewModels.dll
+C:\Users\barte\github\aks\SchoolRegister.ViewModels\obj\Debug\net8.0\SchoolRegister.ViewModels.sourcelink.json

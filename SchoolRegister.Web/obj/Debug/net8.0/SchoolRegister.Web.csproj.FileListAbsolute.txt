@@ -158,3 +158,6 @@ C:\Users\barte\github\aks\SchoolRegister.Web\obj\Debug\net8.0\refint\SchoolRegis
 C:\Users\barte\github\aks\SchoolRegister.Web\obj\Debug\net8.0\SchoolRegister.Web.pdb
 C:\Users\barte\github\aks\SchoolRegister.Web\obj\Debug\net8.0\SchoolRegister.Web.genruntimeconfig.cache
 C:\Users\barte\github\aks\SchoolRegister.Web\obj\Debug\net8.0\ref\SchoolRegister.Web.dll
+C:\Users\barte\github\aks\SchoolRegister.Web\obj\Debug\net8.0\SchoolRegister.Web.sourcelink.json
+C:\Users\barte\github\aks\SchoolRegister.Web\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\barte\github\aks\SchoolRegister.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll

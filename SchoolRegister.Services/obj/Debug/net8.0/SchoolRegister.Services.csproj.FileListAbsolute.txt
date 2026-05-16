@@ -17,3 +17,4 @@ C:\Users\barte\github\aks\SchoolRegister.Services\obj\Debug\net8.0\SchoolRegiste
 C:\Users\barte\github\aks\SchoolRegister.Services\obj\Debug\net8.0\refint\SchoolRegister.Services.dll
 C:\Users\barte\github\aks\SchoolRegister.Services\obj\Debug\net8.0\SchoolRegister.Services.pdb
 C:\Users\barte\github\aks\SchoolRegister.Services\obj\Debug\net8.0\ref\SchoolRegister.Services.dll
+C:\Users\barte\github\aks\SchoolRegister.Services\obj\Debug\net8.0\SchoolRegister.Services.sourcelink.json
